@@ -73,5 +73,6 @@ sudo rm /var/lib/pacman/db.lck
 for this error => Cannot find the fakeroot binary , type=>
  sudo pacman -S --needed base-devel
 ---------------------------------------------------------------------------------------------
+this is a test for updating github
 
-
+Here we test somthing and we wanna to test this on github
