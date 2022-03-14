@@ -73,5 +73,24 @@ for i in "${arr[@]}";do
 ```
 ‍‍‍‍
 
-### bash is extremly case sensetive. 
+### bash is extremly case sensetive.
+***
+for commenting some lines of texts , we use:
+: '
+texts
+'
+***
+here doc :
+we used this to **a type of redirection that allows you to pass multiple lines of input to a command**
+command << doc name
+...
+...
+...
+doc name
+***
+condition in [[]] if we wanna to and two conditions => && between conditions
+condition in [] ,we can use -a for and between conditions
+***
+for math works we have to do somthing like this:
+x=$(expr 1+1)
 ***

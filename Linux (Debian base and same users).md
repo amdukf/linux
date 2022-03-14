@@ -61,3 +61,5 @@ tar xf file
 ***
 If we wanna to shutdown the bell of the terminal , we should uncomment "set the bell-style none" in /etc/inputrc
 ***
+sudo apt install make cpp perl => for virtual machine
+***
